@@ -7,8 +7,14 @@ Application using the github public api.
 
 ## Features
 Search by username:
--repo
--starred
+- repo
+- starred
+
+### Libraries used
+
+- [axios](https://www.npmjs.com/package/axios)
+- [react-tabs](https://www.npmjs.com/package/react-tabs)
+- [styled-components](https://styled-components.com/)
 
 ## Available Scripts
 
